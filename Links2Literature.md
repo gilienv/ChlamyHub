@@ -1,7 +1,7 @@
 ## LITERATURE LINKS
 
 ## Morita 1998
-<a href=https://link.springer.com/article/10.1007/s004250050256> PAPER </a>
+https://link.springer.com/article/10.1007/s004250050256
 
 ## Morita et al., 1999:
 https://link.springer.com/article/10.1007/s004250050571
