@@ -14,4 +14,8 @@ Oct 14: ZCL connected to cluster& filezilla setup done
 Oct 15: Practiced BLAST and SPAdes assembly, MMMG demonstrated assembly on cluster- 
         ZCL start assembly on Thursday'
         
-Oct 17: ZCL submitted Cr. augustae genome assembly - task id: 217421.0
+Oct 17: ZCL submitted Cr. augustae genome assembly - job id: 217421.0
+
+ZCL created https://github.com/gilienv/ChlamyHub/blob/master/ProgressLog.md -work progress log 
+
+Oct 18: GY& ZCL meeting 3pm.
