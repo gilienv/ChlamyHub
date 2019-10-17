@@ -13,3 +13,4 @@ Oct 14: ZCL connected to cluster& filezilla setup done
 
 Oct 15: Practiced BLAST and SPAdes assembly, MMMG demonstrated assembly on cluster- 
         ZCL start assembly on Thursday
+Oct 17: ZCL submitted Cr. augustae genome assembly - task id: 217421.0
