@@ -9,3 +9,7 @@ Submission:[ /scripts/csmit -m 50G -c 32 spades_augustae2.sh ] 11.00AM
 job id no: 217421.0
 
 14.30 check- in queue
+
+18/10/19 Fri
+
+13.00 check- in queue(issue
