@@ -22,7 +22,7 @@ Oct 18: GY& ZCL meeting 3pm. - Discussion on Reconstruction of Plastidial genome
 
 Oct 21: GY: Added new file to initiate work on plastidial genome
 
-Oct 22: GY: Assigned Issue to @CharlesLi
+Oct 22: GY: Assigned Issue to ZCL
 
 Oct 22: GY Added new file for *very* basic tutorials on Unix shell scritping
 
