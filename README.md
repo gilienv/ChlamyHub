@@ -18,4 +18,10 @@ Oct 17: ZCL submitted Cr. augustae genome assembly - job id: 217421.0
 
 ZCL created https://github.com/gilienv/ChlamyHub/blob/master/ProgressLog.md -work progress log 
 
-Oct 18: GY& ZCL meeting 3pm.
+Oct 18: GY& ZCL meeting 3pm. - Discussion on Reconstruction of Plastidial genome
+
+Oct 21: Added new file to initiate work on plastidial genome
+
+Oct 22: Assigning Issue to @CharlesLi
+
+
