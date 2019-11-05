@@ -26,4 +26,10 @@ Oct 22: GY: Assigned Issue to ZCL
 
 Oct 22: GY Added new file for *very* basic tutorials on Unix shell scritping
 
+Oct 31: GY demonstrated node extraction from assembly 
+
+Nov 5: MMMG and ZCL did gene annotation on geneious, wrote shell file for obtaining reads used
+
+
+
 
